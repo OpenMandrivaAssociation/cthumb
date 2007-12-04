@@ -1,5 +1,5 @@
 %define  version	4.2
-%define  release	6mdk
+%define  release	 %mkrel 6
 
 Summary:	A program to generate Web picture albums
 Name:		cthumb
