@@ -8,7 +8,6 @@ Release:	%release
 License:	GPL
 Group:		Networking/WWW
 Source:		http://cthumb.sourceforge.net/cthumb-%{version}.tar.bz2
-BuildRoot:	%_tmppath/%name-%version-buildroot
 URL:		http://cthumb.sourceforge.net/
 BuildArch:	noarch
 Requires:	perl-base
