@@ -1,5 +1,5 @@
 %define  version	4.2
-%define  release	 %mkrel 9
+%define  release	%mkrel 10
 
 Summary:	A program to generate Web picture albums
 Name:		cthumb
@@ -16,7 +16,7 @@ Requires:	perl-HTML-Parser
 Requires:	perl-MIME-tools
 Requires:	perl-URI
 Requires:	libjpeg
-Requires:	libnetpbm
+Requires:	netpbm
 
 
 %description
