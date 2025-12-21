@@ -17,6 +17,11 @@ Requires:	perl-URI
 Requires:	netpbm
 
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Cthumb allows you to create a web picture album, with an index and
 several pages, each with thumbnails of your pictures. it optionally
